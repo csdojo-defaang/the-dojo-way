@@ -16,7 +16,7 @@ By reading through this document and adding your name at the end of this README,
 
 You're welcome to add Dojo to your name on social media, but it's not a required part of the initiation process.
 
-There are rumors that you will need to drink blood of a unicorn, but I'm not sure where to find unicorns to be honest - maybe go to Sillicon Valey or Tel Aviv for that.
+There are rumors that you will need to drink blood of a unicorn, but I'm not sure where to find unicorns to be honest - maybe go to Sillicon Valley or Tel Aviv for that.
 
 ## The Dojo way
 
