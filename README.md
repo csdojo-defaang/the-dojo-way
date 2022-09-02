@@ -38,4 +38,5 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Arya Akhare](https://twitter.com/arya_akhare)
 - [Dunsin](https://twitter.com/DunsinWebDev)
 - [banf](https://twitter.com/banf)
+- [JAX](https://twitter.com/44jax44)
 - [Muhammad Adnan Yousaf](https://twitter.com/ma593y)
