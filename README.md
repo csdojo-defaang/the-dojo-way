@@ -55,3 +55,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Jasmine Vo](https://twitter.com/jasminepvodev)
 - [John Green](https://twitter.com/JohnGreenDev)
 - [Fumudukus](https://twitter.com/OnyelaUdochukw1)
+- [Olamide Farouq](https://twitter.com/Olamide_farouq)
