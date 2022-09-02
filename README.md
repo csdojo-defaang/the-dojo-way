@@ -50,3 +50,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Benny Yen](https://twitter.com/benny123tw/)
 - [Rupali Haldiya](https://twitter.com/rupali_codes)
 - [eno](https://twitter.com/codEno_12)
+- [Victor Evogor](https://twitter.com/victorevogor)
