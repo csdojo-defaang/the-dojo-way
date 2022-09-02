@@ -48,3 +48,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Shawn Charles](https://twitter.com/ShawnBasquiat)
 - [Benny Yen](https://twitter.com/benny123tw/)
 - [Rupali Haldiya](https://twitter.com/rupali_codes)
+- [Victor Evogor](https://twitter.com/victorevogor)
