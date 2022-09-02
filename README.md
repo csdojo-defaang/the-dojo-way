@@ -33,3 +33,4 @@ By adding your name to this document, you will be committing to adhere to these 
 
 ## Signed by:
 - [YK Sugi](https://twitter.com/ykdojo)
+- [Arya Akhare](https://twitter.com/arya_akhare)
