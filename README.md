@@ -33,4 +33,5 @@ By adding your name to this document, you will be committing to adhere to these 
 
 ## Signed by:
 - [YK Sugi](https://twitter.com/ykdojo)
+- [Subho Ghosh](https://twitter.com/subhoghosh_)
 - [Avie Fukai](https://twitter.com/AvieDev)
