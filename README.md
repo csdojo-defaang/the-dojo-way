@@ -20,7 +20,7 @@ There are rumors that you will need to drink blood of a unicorn, but I'm not sur
 
 ## The Dojo way
 
-By adding your name to this document you will be commiting to adhere to these principles:
+By adding your name to this document you will be committing to adhere to these principles:
 
 1. Be humble
 1. Keep learning
