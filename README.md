@@ -57,3 +57,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Fumudukus](https://twitter.com/OnyelaUdochukw1)
 - [Adetoye](https://twitter.com/adetoye_dev)
 - [Olamide Farouq](https://twitter.com/Olamide_farouq)
+- [Jonathan Camiling](https://twitter.com/JayCamDev)
