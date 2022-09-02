@@ -44,3 +44,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Oche](https://twitter.com/Ochecodes)
 - [Samarth Saxena](https://twitter.com/awesamarth_)
 - [Srinivas Karnati](https://twitter.com/__karnati)
+- [Trecia Kat](https://twitter.com/TreciaKS)
