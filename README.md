@@ -12,7 +12,7 @@ Be warned: the Dojo way is not necessarily an easy life choice. If you want an "
 
 ## How to use this document
 
-By reading through this document and adding your twitter account link at the end of this README, you will be *committing* to the Dojo way.
+By reading through this document and adding your name at the end of this README, you will be *committing* to the Dojo way.
 
 You're welcome to add Dojo to your name on social media, but it's not a required part of the initiation process.
 
@@ -38,4 +38,15 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Arya Akhare](https://twitter.com/arya_akhare)
 - [Dunsin](https://twitter.com/DunsinWebDev)
 - [banf](https://twitter.com/banf)
+- [JAX](https://twitter.com/44jax44)
+- [Muhammad Adnan Yousaf](https://twitter.com/ma593y)
+- [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
+- [Oche](https://twitter.com/Ochecodes)
+- [Samarth Saxena](https://twitter.com/awesamarth_)
+- [Srinivas Karnati](https://twitter.com/__karnati)
+- [Trecia Kat](https://twitter.com/TreciaKS)
 - [Emy](https://twitter.com/njong_emy)
+- [Shawn Charles](https://twitter.com/ShawnBasquiat)
+- [Benny Yen](https://twitter.com/benny123tw/)
+- [Rupali Haldiya](https://twitter.com/rupali_codes)
+- [eno](https://twitter.com/codEno_12)
