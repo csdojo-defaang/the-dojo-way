@@ -40,3 +40,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [banf](https://twitter.com/banf)
 - [JAX](https://twitter.com/44jax44)
 - [Muhammad Adnan Yousaf](https://twitter.com/ma593y)
+- [Rupali Haldiya](https://twitter.com/rupali-codes)
