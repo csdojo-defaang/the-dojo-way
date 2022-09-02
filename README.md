@@ -53,3 +53,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Victor Evogor](https://twitter.com/victorevogor)
 - [Ryan Hawkins](https://twitter.com/F5DevLife)
 - [Jasmine Vo](https://twitter.com/jasminepvodev)
+- [John Green](https://twitter.com/JohnGreenDev)
