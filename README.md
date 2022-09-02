@@ -42,3 +42,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Muhammad Adnan Yousaf](https://twitter.com/ma593y)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 - [Oche](https://twitter.com/Ochecodes)
+- [Samarth Saxena](https://twitter.com/awesamarth_)
