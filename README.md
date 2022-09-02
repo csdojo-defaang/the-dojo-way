@@ -29,6 +29,7 @@ By adding your name to this document, you will be committing to adhere to these 
 1. Be inclusive
 1. Be a good listener
 1. Don't judge people easily
+2. And finally - never reject yourself.
 
 ## Signed by:
 - [YK Sugi](https://twitter.com/ykdojo)
