@@ -37,5 +37,6 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Avie Fukai](https://twitter.com/AvieDev)
 - [Arya Akhare](https://twitter.com/arya_akhare)
 - [Dunsin](https://twitter.com/DunsinWebDev)
+- [banf](https://twitter.com/banf)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 
