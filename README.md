@@ -47,4 +47,3 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Trecia Kat](https://twitter.com/TreciaKS)
 - [Shawn Charles](https://twitter.com/ShawnBasquiat)
 - [Benny Yen](https://twitter.com/benny123tw/)
-- [Rupali Haldiya](https://twitter.com/rupali-codes)
