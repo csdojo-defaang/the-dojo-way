@@ -45,4 +45,5 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Samarth Saxena](https://twitter.com/awesamarth_)
 - [Srinivas Karnati](https://twitter.com/__karnati)
 - [Trecia Kat](https://twitter.com/TreciaKS)
+- [Shawn Charles](https://twitter.com/ShawnBasquiat)
 - [Benny Yen](https://twitter.com/benny123tw/)
