@@ -18,10 +18,6 @@ You're welcome to add Dojo to your name on social media, but it's not a required
 
 There are rumors that you will need to drink blood of a unicorn, but I'm not sure where to find unicorns to be honest - maybe go to Sillicon Valley or Tel Aviv for that.
 
-## How to add your name
-
-Please send a PR (pull request) for that.
-
 ## The Dojo way
 
 By adding your name to this document, you will be committing to adhere to these principles:
