@@ -61,3 +61,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Max DeMaio](https://twitter.com/maxwelldemaio)
 - [Jon Christie](https://twitter.com/thejonchristie)
 - [Enoch](https://twitter.com/iamenochchirima)
+- [Aryan Sharma](https://twitter.com/Aryansh2022)
