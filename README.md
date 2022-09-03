@@ -58,3 +58,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Adetoye](https://twitter.com/adetoye_dev)
 - [Olamide Farouq](https://twitter.com/Olamide_farouq)
 - [Jonathan Camiling](https://twitter.com/JayCamDev)
+- [Aryan Sharma](https://twitter.com/Aryansh2022)
