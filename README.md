@@ -62,3 +62,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Jon Christie](https://twitter.com/thejonchristie)
 - [Enoch](https://twitter.com/iamenochchirima)
 - [Aryan Sharma](https://twitter.com/Aryansh2022)
+- [Akshay Wakhare](https://twitter.com/akshay__wakhare)
