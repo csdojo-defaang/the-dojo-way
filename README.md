@@ -65,3 +65,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Akshay Wakhare](https://twitter.com/akshay__wakhare)
 - [Abbey](https://twitter.com/abbeywilltech)
 - [Vanya Rastogi](https://twitter.com/vanya_rastogi)
+- [Kristian Quirapas](https://twitter.com/k_quirapas)
