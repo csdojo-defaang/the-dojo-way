@@ -72,3 +72,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Bishal das](https://twitter.com/bishaltwt7679)
 - [Anshuman Sengar](https://twitter.com/Anshumann789)
 - [Ayesha Gull](https://twitter.com/ayeshag7)
+- [Corey Scheideman](https://twitter.com/corscheid)
