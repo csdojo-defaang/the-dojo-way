@@ -67,3 +67,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Vanya Rastogi](https://twitter.com/vanya_rastogi)
 - [Kristian Quirapas](https://twitter.com/k_quirapas)
 - [John Cañero](https://twitter.com/johncaneroo)
+- [Uday Mehtani](https://twitter.com/uday03meh)
