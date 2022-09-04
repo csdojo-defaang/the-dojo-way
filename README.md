@@ -73,3 +73,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Pedro Sanders](https://twitter.com/pedrosanders_)
 - [Anshuman Sengar](https://twitter.com/Anshumann789)
 - [Ayesha Gull](https://twitter.com/ayeshag7)
+- [Corey Scheideman](https://twitter.com/corscheid)
