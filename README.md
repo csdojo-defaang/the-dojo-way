@@ -64,3 +64,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Aryan Sharma](https://twitter.com/Aryansh2022)
 - [Akshay Wakhare](https://twitter.com/akshay__wakhare)
 - [Abbey](https://twitter.com/abbeywilltech)
+- [John Cañero](https://twitter.com/johncaneroo)
