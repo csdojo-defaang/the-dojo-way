@@ -88,3 +88,5 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Kanika Gola](https://twitter.com/gola_kanika)
 - [xenseee](https://twitter.com/xenseee)
 - [Aarya Chopkar](https://twitter.com/ChopkarAarya)
+- [Anshu Pathak](https://twitter.com/Anshu_pathak12)
+
