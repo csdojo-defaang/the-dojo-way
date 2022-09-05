@@ -83,3 +83,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Abhiram Gullapalli](https://twitter.com/gullapalli_abhi)
 - [Vedant Nandwana](https://twitter.com/vedantnn7)
 - [Ali Reza](https://twitter.com/Ali_Developer05)
+- [Sunday odum](https://twitter.com/sundaycodes)
