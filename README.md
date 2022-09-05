@@ -84,3 +84,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Vedant Nandwana](https://twitter.com/vedantnn7)
 - [Ali Reza](https://twitter.com/Ali_Developer05)
 - [Sunday odum](https://twitter.com/sundaycodes)
+- [Alexandros](https://twitter.com/CK0d3r)
