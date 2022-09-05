@@ -76,3 +76,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Corey Scheideman](https://twitter.com/corscheid)
 - [Nate Emerson](https://twitter.com/nateemerson)
 - [ShoronTech](https://twitter.com/shoruntech)
+- [Swastik Satapathy](https://twitter.com/swxstik)
