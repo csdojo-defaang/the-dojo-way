@@ -85,4 +85,8 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Ali Reza](https://twitter.com/Ali_Developer05)
 - [Sunday odum](https://twitter.com/sundaycodes)
 - [Alexandros](https://twitter.com/CK0d3r)
+- [Kanika Gola](https://twitter.com/gola_kanika)
+- [xenseee](https://twitter.com/xenseee)
+- [Aarya Chopkar](https://twitter.com/ChopkarAarya)
 - [Anshu Pathak](https://twitter.com/Anshu_pathak12)
+
