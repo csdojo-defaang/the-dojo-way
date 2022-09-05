@@ -79,3 +79,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Swastik Satapathy](https://twitter.com/swxstik)
 - [Jashan Mago (Coding Hashira)](https://twitter.com/coding_hashira)
 - [Issa Jean Marie](https://twitter.com/issadevs)
+- [Vurugonda Kalyan](https://twitter.com/VurugondaKalyan)
