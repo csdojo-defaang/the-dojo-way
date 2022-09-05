@@ -75,3 +75,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Ayesha Gull](https://twitter.com/ayeshag7)
 - [Corey Scheideman](https://twitter.com/corscheid)
 - [Nate Emerson](https://twitter.com/nateemerson)
+- [ShoronTech](https://twitter.com/shoruntech)
