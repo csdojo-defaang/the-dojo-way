@@ -90,3 +90,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Aarya Chopkar](https://twitter.com/ChopkarAarya)
 - [Anshu Pathak](https://twitter.com/Anshu_pathak12)
 - [Devarsh Shah](https://twitter.com/devarsh_10)
+- [Paula Isabel](https://twitter.com/codewithpau)
