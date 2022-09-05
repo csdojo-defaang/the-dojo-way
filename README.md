@@ -82,3 +82,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Vurugonda Kalyan](https://twitter.com/VurugondaKalyan)
 - [Abhiram Gullapalli](https://twitter.com/gullapalli_abhi)
 - [Vedant Nandwana](https://twitter.com/vedantnn7)
+- [Ali Reza](https://twitter.com/Ali_Developer05)
