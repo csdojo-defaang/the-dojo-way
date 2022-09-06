@@ -96,3 +96,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Ayush Tawar](https://twitter.com/Aayuuushhhh)
 - [Kirti Jain](https://twitter.com/kshama612)
 - [Harsh Gupta](https://twitter.com/harshhes)
+- [Amrin](https://twitter.com/CoderAmrin)
