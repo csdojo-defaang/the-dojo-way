@@ -95,3 +95,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Eric Jakobsen](https://twitter.com/gentlegiantdev)
 - [Ayush Tawar](https://twitter.com/Aayuuushhhh)
 - [Kirti Jain](https://twitter.com/kshama612)
+- [Piyush Mahapatra](https://twitter.com/piyush_xp)
