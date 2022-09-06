@@ -93,3 +93,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Paula Isabel](https://twitter.com/codewithpau)
 - [Arth Prajapati](https://twitter.com/aparth11)
 - [Eric Jakobsen](https://twitter.com/gentlegiantdev)
+- [Kirti Jain](https://twitter.com/kshama612)
