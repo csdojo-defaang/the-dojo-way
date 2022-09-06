@@ -92,3 +92,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Devarsh Shah](https://twitter.com/devarsh_10)
 - [Paula Isabel](https://twitter.com/codewithpau)
 - [Arth Prajapati](https://twitter.com/aparth11)
+- [Eric Jakobsen](https://twitter.com/gentlegiantdev)
