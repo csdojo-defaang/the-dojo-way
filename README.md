@@ -94,3 +94,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Arth Prajapati](https://twitter.com/aparth11)
 - [Eric Jakobsen](https://twitter.com/gentlegiantdev)
 - [Ayush Tawar](https://twitter.com/Aayuuushhhh)
+- [Kirti Jain](https://twitter.com/kshama612)
