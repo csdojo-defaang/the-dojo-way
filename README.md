@@ -98,3 +98,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Harsh Gupta](https://twitter.com/harshhes)
 - [Amrin](https://twitter.com/CoderAmrin)
 - [Piyush Mahapatra](https://twitter.com/piyush_xp)
+- [Claire Charles](https://twitter.com/claire__charles)
