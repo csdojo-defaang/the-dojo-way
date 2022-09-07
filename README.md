@@ -12,7 +12,7 @@ Be warned: the Dojo way is not necessarily an easy life choice. If you want an "
 
 ## How to use this document
 
-By reading through this document and adding your name at the end of this README, you will be *committing* to the Dojo way.
+By reading through this document and adding your name at the end of this README, you will be _committing_ to the Dojo way.
 
 You're welcome to add Dojo to your name on social media, but it's not a required part of the initiation process.
 
@@ -32,6 +32,7 @@ By adding your name to this document, you will be committing to adhere to these 
 1. And finally - [never reject yourself](https://twitter.com/ykdojo/status/1564252923483541504).
 
 ## Signed by:
+
 - [YK Sugi](https://twitter.com/ykdojo)
 - [Subho Ghosh](https://twitter.com/subhoghosh_)
 - [Avie Fukai](https://twitter.com/AvieDev)
@@ -98,3 +99,4 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Harsh Gupta](https://twitter.com/harshhes)
 - [Amrin](https://twitter.com/CoderAmrin)
 - [Piyush Mahapatra](https://twitter.com/piyush_xp)
+- [Halim Shams](https://twitter.com/HalimOFFI)
