@@ -12,7 +12,7 @@ Be warned: the Dojo way is not necessarily an easy life choice. If you want an "
 
 ## How to use this document
 
-By reading through this document and adding your name at the end of this README, you will be *committing* to the Dojo way.
+By reading through this document and adding your name at the end of this README, you will be _committing_ to the Dojo way.
 
 You're welcome to add Dojo to your name on social media, but it's not a required part of the initiation process.
 
@@ -31,7 +31,14 @@ By adding your name to this document, you will be committing to adhere to these 
 1. Don't judge people easily
 1. And finally - [never reject yourself](https://twitter.com/ykdojo/status/1564252923483541504).
 
+## Discord:
+
+We don't have a dedicated Discord server for this yet, but we do have a group for one of our other open source projects, [defaang](https://github.com/ykdojo/defaang).
+
+If you have any questions about this movement, or just want to chat with some of the other members, feel free to join us [here](https://discord.com/invite/nNtVfKddDD).
+
 ## Signed by:
+
 - [YK Sugi](https://twitter.com/ykdojo)
 - [Subho Ghosh](https://twitter.com/subhoghosh_)
 - [Avie Fukai](https://twitter.com/AvieDev)
@@ -98,4 +105,10 @@ By adding your name to this document, you will be committing to adhere to these 
 - [Harsh Gupta](https://twitter.com/harshhes)
 - [Amrin](https://twitter.com/CoderAmrin)
 - [Piyush Mahapatra](https://twitter.com/piyush_xp)
+- [Halim Shams](https://twitter.com/HalimOFFI)
+- [Pratik Dey](https://twitter.com/pratik_twt_)
+- [Jawad Dheini](https://twitter.com/jawaddheini)
+- [Jonnie](https://twitter.com/JonnieDev)
+- [Aman sarraf](https://twitter.com/aman_stwts)
+- [Vaibhav Singh](https://twitter.com/VaibhavSinghDev)
 - [Claire Charles](https://twitter.com/claire__charles)
