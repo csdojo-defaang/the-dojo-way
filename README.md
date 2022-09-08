@@ -111,3 +111,4 @@ If you have any questions about this movement, or just want to chat with some of
 - [Jonnie](https://twitter.com/JonnieDev)
 - [Aman sarraf](https://twitter.com/aman_stwts)
 - [Vaibhav Singh](https://twitter.com/VaibhavSinghDev)
+- [Claire Charles](https://twitter.com/claire__charles)
