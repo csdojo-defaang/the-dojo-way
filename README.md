@@ -114,3 +114,4 @@ If you have any questions about this movement, or just want to chat with some of
 - [Claire Charles](https://twitter.com/claire__charles)
 - [Jessej Samuel](https://twitter.com/CodeRxJesseJ)
 - [Olaolu](https://twitter.com/olaolu_dev)
+- [Ayomide SUARA](https://twitter.com/Aysuarex)
