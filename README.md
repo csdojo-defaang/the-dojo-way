@@ -120,3 +120,4 @@ If you have any questions about this movement, or just want to chat with some of
 - [Krish Gupta](https://twitter.com/krshkodes)
 - [Kuldeep Yeware](https://twitter.com/kuldeepyeware)
 - [Huihui](https://twitter.com/huihuicoder)
+- [Kashish Lakhara](https://twitter.com/kashishtwts)
