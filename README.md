@@ -123,3 +123,4 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Sagar Jariwala](https://twitter.com/Sagar_jari_)
 - [Chris Morton](https://github.com/Mortr0n)
 - [Bony Sureliya](https://github.com/bonysureliya)
+- [Ife Jeremiah](https://github.com/ifejeremiah)
