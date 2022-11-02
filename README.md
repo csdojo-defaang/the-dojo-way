@@ -41,6 +41,7 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Subho Ghosh](https://twitter.com/subhoghosh_)
 - [Avie Fukai](https://twitter.com/AvieDev)
 - [Arya Akhare](https://twitter.com/arya_akhare)
+- [MD TARIQUE ANWAR](https://twitter.com/Itsanwartarique?t=5VBMkID_q1zw4DuXL8FrTw&s=09)
 - [Dunsin](https://twitter.com/DunsinWebDev)
 - [banf](https://twitter.com/banf)
 - [JAX](https://twitter.com/44jax44)
