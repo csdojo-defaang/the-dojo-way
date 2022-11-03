@@ -124,3 +124,4 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Chris Morton](https://github.com/Mortr0n)
 - [Bony Sureliya](https://github.com/bonysureliya)
 - [Ife Jeremiah](https://github.com/ifejeremiah)
+- [MD TARIQUE ANWAR](https://twitter.com/Itsanwartarique?t=5VBMkID_q1zw4DuXL8FrTw&s=09)
