@@ -54,6 +54,7 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Shawn Charles](https://twitter.com/ShawnBasquiat)
 - [Benny Yen](https://twitter.com/benny123tw/)
 - [Rupali Haldiya](https://twitter.com/rupali_codes)
+- [Jivan Bhardwaj](https://github.com/jivanbhardwaj)
 - [eno](https://twitter.com/codEno_12)
 - [Victor Evogor](https://twitter.com/victorevogor)
 - [Ryan Hawkins](https://twitter.com/F5DevLife)
