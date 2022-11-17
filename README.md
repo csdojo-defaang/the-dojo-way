@@ -44,7 +44,7 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Dunsin](https://twitter.com/DunsinWebDev)
 - [banf](https://twitter.com/banf)
 - [JAX](https://twitter.com/44jax44)
-i- [Muhammad Adnan Yousaf](https://twitter.com/ma593y)
+- [Muhammad Adnan Yousaf](https://twitter.com/ma593y)
 - [Swaraj Singh](https://twitter.com/Swaraj_Singh__)
 - [Oche](https://twitter.com/Ochecodes)
 - [Samarth Saxena](https://twitter.com/awesamarth_)
