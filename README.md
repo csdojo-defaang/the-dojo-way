@@ -128,3 +128,4 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Muhammad Iqbal](https://twitter.com/muhammadid63)
 - [01 spirit](https://twitter.com/spiritdivine01)
 - [Jon Christie](https://github.com/mathcodes)
+- [Jivan Bhardwaj](https://twitter.com/JivanBhardwaj05)
