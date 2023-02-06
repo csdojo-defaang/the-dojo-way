@@ -129,3 +129,4 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [01 spirit](https://twitter.com/spiritdivine01)
 - [Jon Christie](https://github.com/mathcodes)
 - [Jivan Bhardwaj](https://twitter.com/JivanBhardwaj05)
+- [Nakuru Wubni](https://twitter.com/nwubni)
