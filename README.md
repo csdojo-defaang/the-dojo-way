@@ -134,3 +134,4 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Thankgod Ode](https://github.com/thankgodode)
 - [Vardaan Aggarwal](https://www.twitter.com/VardaanAgg)
 - [phedwin](https://github.com/phedwin)
+- [Venkata Kanumuru](https://github.com/vsramakrishnaraju)
