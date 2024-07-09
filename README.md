@@ -135,3 +135,4 @@ Join us [here](https://discord.com/invite/nNtVfKddDD).
 - [Vardaan Aggarwal](https://www.twitter.com/VardaanAgg)
 - [phedwin](https://github.com/phedwin)
 - [Venkata Kanumuru](https://github.com/vsramakrishnaraju)
+- [Ronney Otieno](https://github.com/0tieno)
